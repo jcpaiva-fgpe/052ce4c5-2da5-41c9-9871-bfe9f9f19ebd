@@ -1,0 +1,424 @@
+<!-- wp:heading {"level":3} -->
+<h3>Overview</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="finalscore" relation="equal" value="136-156"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+Pioneers question the adequacy of contemporary digital and pedagogical practices, of which they themselves are Leaders. They are concerned about the constraints or drawbacks of these practices and driven by the impulse to innovate education even further. Pioneers experiment with highly innovative and complex digital technologies and/or develop novel pedagogical approaches. Pioneers are a unique and rare species. They lead innovation and are a role model for younger teachers.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="finalscore" relation="equal" value="109-135"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+Leaders have a consistent and comprehensive approach to using digital technologies to enhance pedagogic and professional practices. They rely on a broad repertoire of digital strategies from which they know how to choose the most appropriate for any given situation. They continuously reflect on and further develop their practices. Exchanging with peers, they keep updated on new developments and ideas. They are a source of inspiration for others, to whom they pass on their expertise.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="finalscore" relation="equal" value="82-108"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+Experts use a range of digital technologies confidently, creatively and critically to enhance their professional activities. They purposefully select digital technologies for particular situations, and try to understand the benefits and drawbacks of different digital strategies. They are curious and open to new ideas, knowing that there are many things they have not tried out yet. They use experimentation as a means of expanding, structuring and consolidating their repertoire of strategies. Experts are the backbone of any educational organisation when it comes to innovating practice.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="finalscore" relation="equal" value="55-81"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+Integrators experiment with digital technologies in a variety of contexts and for a range of purposes, integrating them into many of their practices. They creatively use them to enhance diverse aspects of their professional engagement. They are eager to expand their repertoire of practices. They are, however, still working on understanding which tools work best in which situations and on fitting digital technologies to pedagogic strategies and methods. Integrators just need some more time for experimentation and reflection, complemented by collaborative encouragement and knowledge exchange to become Experts.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="finalscore" relation="equal" value="28-54"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+Explorers are aware of the potential of digital technologies and are interested in exploring them to enhance pedagogical and professional practice. They have started using digital technologies in some areas of digital competence, without, however, following a comprehensive or consistent approach. Explorers need encouragement, insight and inspiration, e.g. through the example and guidance of colleagues, embedded in a collaborative exchange of practices.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="finalscore" relation="equal" value="0-27"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+Newcomers are aware of the potential of digital technologies for enhancing pedagogical and professional practice.
+However, they have had very little contact with digital technologies and use them mainly for lesson preparation,
+administration or organisational communication. Newcomers need guidance and encouragement to expand their repertoire and to apply their existing digital competence in the pedagogical realm.
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>Take a look at the radar diagram and investigate your strengths and weaknesses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="radarchart" data="average-score" filter="Professional Engagement,Immersive Resources,Teaching and Learning,Assessment,Empowering Learners,Facilitating Learners’ Digital Competence,Technologies" uid="true" session="last" max="6" printable="true"]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p>Investigate separate areas in detail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Professional engagement</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Professional Engagement" relation="equal" value="21-24"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I contribute to developing a coherent vision or strategy on using digital and immersive technologies effectively and responsibly for communication.
+I use communities to help other educators develop their digital, immersive and pedagogic competences. I use digital communities to collaborate with peers on innovating pedagogical practices.
+I develop, individually or in collaboration with peers, a vision or strategy for improving educational practice through the use of digital and immersive technologies. I reflect on and evaluate with colleagues and/or researchers different digital practices, methods and policies, with a view to developing innovative methods.
+I use digital and immersive technologies to advise peers on innovative teaching practices, e.g. in professional communities, through personal blogs, or by developing digital training materials for them.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Professional Engagement" relation="equal" value="17-20"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+I evaluate, reflect on and collaboratively discuss how digital and immersive technologies are used effectively for organisational and individual communication. I use digital to make administrative procedures more transparent for learners and/or parents and to allow them to make informed choices on future learning priorities.
+I use the insight and resources, generated in the collaborative networks I belong to, to get feedback on and improve my competences, and to expand my repertoire of practices.
+I follow current research on innovative teaching and integrate research findings into my practice. I evaluate, reflect on and collaboratively discuss policy and organisational practice concerning the use of immersive technologies. I help peers in developing their competence.
+I consult a range of possible online training opportunities and select those which best fit my development needs, learning style and time
+constraints. I actively participate in online training opportunities and contribute to improving them and guiding others in making appropriate choices by providing feedback. 
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Professional Engagement" relation="equal" value="13-16"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I select the most appropriate digital or immersive technology, format and style for a given communication purpose and context. I adapt my communication strategies to the specific audience.
+I actively use digital communities to exchange ideas and collaboratively develop immersive resources. 
+I actively seek out best practices, courses or other advice to improve my own pedagogies and wider competences related to immersive technologies. I evaluate, reflect on and discuss with peers how to use immersive technologies to innovate and improve educational practice. 
+I use the internet for professional development, e.g. by participating in online courses, webinars, or consulting digital training materials and video tutorials. I use formal and informal exchanges in professional online communities as a source for my professional development. 
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Professional Engagement" relation="equal" value="9-12"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I use different digital and immersive communication channels and tools, depending on the communication purpose and context. I communicate responsibly and ethically with digital technologies, e.g. respecting netiquette and acceptable use policies (AUP).
+I use digital communities to explore new pedagogic resources or methods and to get fresh ideas. I use digital and immersive technologies to share and exchange the resources I use, my knowledge and opinion, with colleagues within and beyond my organisation.
+I seek to improve and update my digital and immersive pedagogical competence through experimentation and peer learning. I creatively experiment with and reflect on new pedagogical approaches, enabled by digital and immersive technologies.
+I use the internet to identify suitable training courses and other opportunities for professional development (e.g. conferences).
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Professional Engagement" relation="equal" value="5-8"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I make use of digital and immersive technologies for communication e.g. with learners, parents, colleagues or support staff.
+I use digital and immersive technologies to collaborate with colleagues in my organisation, e.g. on a dedicated joint project, or to exchange content, knowledge and opinions.
+I am aware of the limits of my own competence related to immersive technologies and my training needs.
+I use the internet to update my subject-specific or pedagogical knowledge.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Professional Engagement" relation="equal" value="0-4"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I rarely use digital and immersive technologies for communication.
+I rarely use digital and immersive technologies to collaborate with colleagues.
+I know that I need to enhance my skills related to immersive technologies, but I am unsure how and where to start.
+I only rarely, if at all, use the internet to update my knowledge or skills.
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" filter="Organisational communication,Professional collaboration,Reflective practice,Continuous professional development" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Immersive resources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Immersive Resources" relation="equal" value="16-18"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I provide guidance to colleagues on effective search strategies and suitable repositories and resources. I set up my own repository of (links to) resources, appropriately annotated and rated, and make it available for other colleagues to use.
+I create my own immersive apps or games to support my educational objectives. 
+I annotate the resources I digitally share and enable others to comment, rate, modify, re-arrange or add to them.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Immersive Resources" relation="equal" value="13-15"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+In addition to search engines, I use a variety of other sources, e.g. collaborative platforms, official repositories, etc. I evaluate the reliability and suitability of content based on a combination of criteria, verifying also its accuracy and neutrality. When I use resources in class, I contextualise them for the students, e.g. by pointing out their source and potential bias.
+I create and modify complex and interactive immersive learning activities, e.g. interactive worksheets, online assessments, online collaborative learning activities, games, apps, visualisations. I co-create immersive learning resources with colleagues.
+I compile comprehensive content repositories and make them available to learners or other educators. I apply licenses to the resources I publish online.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Immersive Resources" relation="equal" value="10-12"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I adapt my search strategies to identify resources which I can modify and adapt, e.g. searching and filtering by license, filename extension, date, user feedback etc. I locate immersive apps and/or games for my learners to use. I evaluate the reliability of immersive resources and their suitability for my learner group and specific learning objective. I give feedback and recommendations on the immersive resources I use.
+I integrate a range of interactive elements and games into my self-created instructional resources. I modify and combine existing resources to create learning activities that are tailored to a concrete learning context and objective, and to the characteristics of the learner group. I understand different licenses attributed to immersive resources and know the permissions granted to me as regards modifying resources.
+I share resources embedding them into immersive environments. I effectively protect personal and sensitive data and restrict access to resources as appropriate. I correctly reference resources affected by copyright. 
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Immersive Resources" relation="equal" value="7-9"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I adapt my search strategies based on the results I obtain. I filter results to find suitable immersive resources, using appropriate criteria. I evaluate the quality of immersivew resources based on basic criteria, such as e.g. place of publication, authorship, other users’ feedback. I select immersive resources that my learners may find appealing.
+When I create immersive resources, I integrate some animations, links, multimedia or interactive elements. I make some basic modifications to the learning resources I use to fit them to the learning context, e.g. editing or deleting parts, adapting the general settings. I address a specific learning objective when selecting, modifying, combining and creating immersive learning resources.
+I share educational content on virtual learning environments or by uploading, linking or embedding it e.g. on a course website, blog or repository. I effectively protect sensitive content, e.g. exams, students’ reports. I understand the copyright rules that apply to the digital resources I use for school purposes (models, images, text, audio and film).
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Immersive Resources" relation="equal" value="4-6"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I use simple internet search strategies to identify immersive content relevant for teaching and learning. I am aware of common immersive platforms which provide educational resources.
+I use existing software to design and modify immersive resources. I can create presentations to be used in immersive platforms for instructional purposes.
+I share educational content via e-mail attachments or through links. I am aware that some resources distributed on the Internet are copyrighted.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Immersive Resources" relation="equal" value="0-3"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I only rarely, if at all, use the internet to find immersive resources for teaching and learning.
+I may make use of immersive resources, but I do not usually modify them or create my own resources.
+I store and organise immersive resources for my own future use. 
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" filter="Selecting immersive resources,Creating and modifying immersive resources,Managing and sharing immersive resources" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Teaching and learning</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Teaching and Learning" relation="equal" value="21-24"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I provide full courses or learning modules using digital and immersive learning environments. I experiment with and develop new formats and pedagogical methods for instruction. 
+I develop new forms and formats for offering guidance and support, using immersive technologies.
+I use immersive technologies to invent new formats for collaborative learning.
+I develop new immersive formats and/or pedagogical approaches to foster self-directed learning.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Teaching and Learning" relation="equal" value="17-20"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+I structure learning sessions so that different (teacher-led and learner-led) activities jointly re-inforce the learning objective. I structure and manage content, contributions and interaction in an immersive environment. I continuously evaluate the effectiveness of digitally
+enhanced teaching strategies and revise my strategies accordingly.
+When I set up learning activities in immersive environments, I foresee learners’ needs for guidance and cater for them, e.g. with a help or FAQ section, or with video tutorials. When I implement immersive learning activities in class, I make sure I am able to monitor student behaviour, so that I can offer guidance when needed.
+I design and manage diverse collaborative learning activities, where learners use a variety of technologies to collaboratively conduct research,
+document findings and reflect on their learning, both in physical and in virtual learning environments. I use digital and immersive technologies for peer-assessment and as a support for collaborative self-regulation and peer-learning.
+I reflect on the appropriateness of my digital and immersive strategies in fostering self-regulated learning and continuously enhance my strategies.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Teaching and Learning" relation="equal" value="13-16"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I consider appropriate social settings and interaction modes when integrating immersive technologies. I use immersive technologies in teaching to increase methodological variation. I set up learning sessions or other interactions in a immersive environment.
+I interact with learners in the collaborative immersive environments I use, monitoring their behaviour and providing individual guidance and support as needed. I experiment with new forms and formats for offering guidance and support, using immersive technologies.
+I set up collaborative activities in a digital and immersive environment, e.g. blogs, wikis, moodle, immersive platforms. I monitor and guide learners’ collaborative interaction in immersive environments. I use immersive technologies to enable learners to share insights with others and receive peer-feedback, also on individual assignments.
+I use immersive technologies or environments to allow learners to manage and document all stages of their learning, e.g. for planning, information retrieval, documentation, reflection and self-assessment. I help learners in developing, applying and revising suitable criteria for self-assessment, with the support of digital technologies.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Teaching and Learning" relation="equal" value="9-12"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I organise and manage the integration of immersive devices into the teaching and learning process. I manage the integration of immersive content, e.g. panoramic videos, interactive activities, into the teaching and learning process.
+I use a common digital communication channel with my learners to respond to their questions and doubts. I am frequently in contact with learners and listen to their problems and questions. I'm encouraging learners to use immersive technologies for communication.
+I design and implement collaborative activities, in which immersive technologies are used by learners for their collaborative knowledge generation, e.g. for sourcing and exchanging information. I require learners to document their collaborative efforts using digital technologies, e.g. digital presentations, videos, blog posts.
+I encourage learners to use digital and immersive technologies to collect evidence and record progress, e.g. to produce audio or video recordings, photos, texts, models. I use digital and immersive technologies to allow learners to record and showcase their work. I use immersive technologies for learner self-assessment.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Teaching and Learning" relation="equal" value="5-8"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I use available immersive technologies, e.g. virtual reality HMDs, augmented reality devices. I choose immersive technologies and recourses according to the learning objective and context.
+I use digital technologies, e.g. e-mail or chat, to respond to learners’ questions or doubts, e.g. on homework assignments. I'm trying out immersive technologies for communication purpose.
+When implementing collaborative activities or projects, I encourage learners to use immersive technologies to support their work, e.g. for internet
+search or to present their results.
+I encourage learners to use immersive technologies to support their individual learning activities and assignments, e.g. for information retrieval or presenting results.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Teaching and Learning" relation="equal" value="0-4"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I do not or only very rarely use digital and immersive devices or immersive content in my teaching. 
+I do not or only very rarely communicate with learners through digital means, e.g. e-mail, discord, slack. I didn't use communication using immersive technologies.
+I do not or only very rarely consider how students could use immersive technologies in collaborative activities or assignments. 
+I do not or only very rarely consider how students could use immersive technologies in self-regulated activities or assignments.
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" filter="Teaching with immersive resources,Guidance in immersive learning,Foster collaborative immersive learning,Foster self-regulated immersive learning" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Assessment</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Assessment" relation="equal" value="16-18"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I develop new digital formats for assessment, which reflect innovative pedagogic approaches and allow for the assessment of transversal skills.
+I implement advanced data generation and visualisation methods into the digital and immersive activities I employ, e.g. based on learning analytics. I critically assess and discuss the value and validity of different data sources as well as the appropriateness of established methods for data analysis.
+I reflect on, discuss, re-design and innovate teaching strategies in response to the digital evidence I find, as concerns learners’ preferences and needs as well as the effectiveness of different teaching interventions and learning formats.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Assessment" relation="equal" value="13-15"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+I use a variety of digital and non-digital assessment formats, aligned with content and technology standards, and am aware of their benefits and
+drawbacks. I critically reflect on my use of digital and immersive technologies for assessment and adapt my strategies accordingly.
+I continuously monitor digital and immersive activity and regularly reflect on digitally recorded learner data to timely identify and react upon critical behaviour and individual problems. I evaluate and synthesize the data generated by the various digital technologies I use to reflect on the effectiveness and suitability of different teaching strategies and learning activities, in general and for certain learner groups.
+I assist learners in identifying areas for improvement and jointly develop learning plans to address these areas, based on the evidence available.
+I use the data generated by digital and immersive technologies to reflect on which teaching strategies work well for which kind of learners and adapt my teaching strategies accordingly.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Assessment" relation="equal" value="10-12"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I use a range of e-assessment software, tools and approaches, for formative assessment, both in the classroom and for learners to use after school.
+I select between different assessment formats the one that most adequately captures the nature of the learning outcome to be assessed. I design assessments which are valid and reliable.
+I use digital and immersive technologies (e.g. quizzes, voting systems, games) within the teaching process to provide me with timely feedback on learners’ progress. I use the data analysis tools provided by the digital and immersive environments to monitor and visualise activity. I interpret the data and evidence available in order to better understand individual learners’ needs for support.
+I adapt my teaching and assessment practices, based on the data generated by the digital and immersive technologies I use. I provide personal feedback and offer differentiated support to learners, based on the data generated by the digital and immersive technologies used. I use digital technologies to enable learners and parents to remain updated on progress and make informed choices on future learning priorities, optional subjects or future studies.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Assessment" relation="equal" value="7-9"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I use some existing digital technologies for formative or summative assessment, e.g. digital quizzes, e-portfolios, games. I adapt digital assessment tools to support my specific assessment goal, e.g. create a test using a digital test system.
+I evaluate the data resulting from assessments to inform learning and teaching. I am aware that the data on my learners’ activity, as it is recorded in the digital environments which I use with them, can help me monitor their progress and provide them with timely feedback and assistance.
+I use digital technology to grade and give feedback on electronically submitted assignments. I help students and/or parents to access information on learners’ performance, using digital and immersive technologies. 
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Assessment" relation="equal" value="4-6"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I use digital technologies to create assessment tasks which are then administered in paper-format. I plan for students’ use of digital technologies in assessment tasks, e.g. in support of assignments.
+I evaluate administrative data (e.g. attendance) and data on student performance (e.g. grades) for individual feedback and targeted interventions.
+I am aware that digital assessment tools (e.g. quizzes, voting systems) can be used within the teaching process to provide me with timely feedback on learners’ progress.
+I use digital technologies to compile an overview on learners’ progress, which I use as a basis for offering feedback and advice. 
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Assessment" relation="equal" value="0-3"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I do not or only very rarely use digital assessment formats.
+I do not or only very rarely refer to digitally recorded data to understand where my students stand.
+I am not aware how digital and immersive technologies can help me in providing feedback to learners or adapting my teaching strategies. 
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" filter="Assessment strategies,Analysing evidence,Feedback and planning" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Empowering learners</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Empowering Learners" relation="equal" value="16-18"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I reflect on, discuss, re-design and innovate strategies for equal access to and inclusion in digital education.
+I reflect on, discuss, re-design and innovate pedagogic strategies for personalising education through the use of digital and immersive technologies.
+I reflect on, discuss, re-design and innovate pedagogic strategies for actively engaging learners.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Empowering Learners" relation="equal" value="13-15"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+I select and employ pedagogical strategies fitted to learners’ immersive technology uses, competences, expectations, attitudes,
+misconceptions and misuses. I employ design principles for increasing accessibility for the resources and digital environments used in teaching, e.g. as concerns font, size, colours, language, layout, structure, virtual reality usability guides. I continuously monitor and reflect on the suitability of the measures implemented to improve accessibility and adapt my strategies accordingly.
+I design, in collaboration with learners and/or parents, personalised learning plans which allow all learners to follow their individual learning needs and preferences, with the aid of appropriate immersive resources. I reflect on how effectively the teaching strategies employed foster differentiation and personalisation and adapt my teaching strategies and activities accordingly.
+I select, design, employ and orchestrate the use of immersive technologies within the learning process according to their potential for fostering learners’ active, creative and critical engagement with the subject matter. I reflect on how suitable the different technologies I use are in increasing learners’ active learning and adapt my strategies and choices accordingly.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Empowering Learners" relation="equal" value="10-12"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I select pedagogical strategies that adapt to learners’ digital contexts, e.g. limited usage time, type of device available.I consider and respond to potential accessibility issues when selecting, modifying or creating digital resources and provide alternative or compensatory tools or approaches for learners with special needs. I employ digital technologies and strategies, e.g. assistive technologies, to remediate individual leaners’ accessibility problems, e.g. visual or hearing impairments.
+When designing learning and assessment activities, I use a range of different digital and immersive technologies, which I adapt and adjust to account for different needs, levels, speeds and preferences. When sequencing and implementing learning activities, I allow for different learning pathways, levels and speeds and flexibly adapt my strategies to changing circumstances or needs. 
+I use a range of technologies to create a relevant, rich and effective immersive learning environment, e.g. by addressing different sensory channels, learning styles and strategies, by methodologically varying activity types and group compositions. I reflect on how effective the teaching strategies employed are in increasing learner engagement and active learning.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Empowering Learners" relation="equal" value="7-9"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I understand how access to immersive technology creates divides and how students’ social and economic conditions have an impact on
+the way technology is used. I ensure that all students have access to the immersive technologies I use. I am aware that compensatory digital and immersive technologies can be used for learners’ in need of special support (e.g. learners with physical or mental constraints; learners with learning disorders).
+I select and use some learning activities, e.g. quizzes or games, that allow learners to proceed at different speeds, select different levels of difficulty and/or repeat activities previously not solved adequately.
+I put learners’ active use of immersive technologies at the centre of the instructional process. I choose the most appropriate tool for fostering learner active engagement in a given learning context or for a specific learning objective.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Empowering Learners" relation="equal" value="4-6"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I understand the importance of ensuring equal access to the immersive technologies used for all students. I am aware that digital technologies can hinder or improve accessibility.
+I am aware that digital and immersive technologies can support differentiation and personalisation, e.g. by providing activities at different levels and speeds.
+I use immersive technologies to visualise and explain new concepts in a motivating and engaging way. I employ learning activities which are motivating and engaging, e.g. games, quizzes.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Empowering Learners" relation="equal" value="0-3"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I am afraid that the use of immersive technologies in teaching will make it even more difficult for already disadvantaged students to
+participate and keep up with the others.
+I do not know how immersive technologies can help me offer personalised learning opportunities.
+I only very rarely, if at all, use immersive technologies to motivate or engage learners.
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" filter="Accessability and inclusion,Differentiation and personalization,Actively engage students" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Facilitating learners' digital competence</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Facilitating Learners’ Digital Competence" relation="equal" value="26-30"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I reflect on, discuss, re-design and innovate pedagogic strategies for fostering learners’ information and media literacy.
+I reflect on, discuss, re-design and innovate pedagogic strategies for fostering learners’ digital and immersive communication and collaboration.
+I guide learners in designing, publishing and licensing complex digital and immersive products, e.g. creating websites, blogs, games, apps, immersive online content. I reflect on, discuss, re-design and innovate pedagogic strategies for fostering expression and creation by learners.
+I reflect on, discuss, re-design and innovate pedagogic strategies to foster learners’ ability to use immersive technologies for their own wellbeing.
+I enable learners to apply their competence in unconventional ways to new situations and creatively come up with new solutions or products.
+I reflect on, discuss, re-design and innovate pedagogic strategies for fostering learners’ problem solving skills using digital and immersive technologies.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Facilitating Learners’ Digital Competence" relation="equal" value="21-25"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+I critically reflect on how suitable my pedagogic strategies are in fostering learners’ information and media literacy and adapt my strategies accordingly.
+I incorporate assignments and learning activities which require learners to effectively and responsibly use immersive technologies for communication, collaboration, knowledge co-creation, and civic participation. I critically reflect on how suitable my pedagogic strategies are in fostering learners’ communication and collaboration and adapt my strategies accordingly.
+I detect and counteract plagiarism, e.g. by using digital technologies. I critically reflect on the suitability of my pedagogic strategies in fostering learners’ creative expression and adapt my strategies accordingly.
+I enable learners to understand risks and threats in digital and immersive environments (e.g. identity theft, fraud, stalking, phishing) and how to react appropriately. I critically reflect on the suitability of my pedagogic strategies to foster learners’ wellbeing and adapt my strategies accordingly.
+I enable learners to seek out different technological solutions to a problem, investigate their benefits and drawbacks and critically and creatively come up with a new solution or product. I critically reflect on the suitability of my pedagogic strategies to foster learners’  competence and expand their repertoire of strategies, and adapt my methods accordingly.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Facilitating Learners’ Digital Competence" relation="equal" value="16-20"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I use a range of different pedagogic strategies to enable learners to critically compare and meaningfully combine information from different
+sources. I teach learners how to quote sources appropriately.
+I use a range of different pedagogic strategies in which learners use digital and immersive technologies for communication and collaboration. I support and encourage learners to use immersive technologies to participate in public discourses and to use technologies actively and consciously for civic participation.
+I use a range of different pedagogic strategies to enable learners to express themselves using immersive technologies, e.g. by contributing to immersive platforms. I enable learners to understand the concept of copyright and licenses and how to re-use content appropriately.
+I develop strategies to prevent, identify and respond to behaviour that negatively affects learners’ health and wellbeing (e.g. cyberbullying). I encourage learners to assume a positive attitude towards immersive technologies, being aware of possible risks and limits, but also being confident that they can manage these in order to reap the benefits. 
+I use a range of different pedagogic strategies to enable learners to apply their digital competence to new situations or in new contexts.
+I encourage learners to reflect on the limits of their digital competence and help them identify suitable strategies for further developing it.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Facilitating Learners’ Digital Competence" relation="equal" value="11-15"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I implement learning activities in which learners use digital technologies for information retrieval. I teach learners how to find information, how to assess its reliability, how to compare and combine information from different sources. 
+I implement learning activities in which learners use digital and immersive technologies for communication. I guide learners in respecting behavioural norms, appropriately selecting communication strategies and channels, and being aware of cultural and social diversity in immersive environments.
+I implement learning activities in which learners use technologies to produce immersive content, e.g. in the form of text, photos, other images, videos, models, environments, etc. I encourage learners to publish and share their productions.
+I give practical and experience-based advice on how to protect privacy and data, e.g. using passwords, adjusting the settings of social media.
+I assist learners in protecting their digital identity and managing their digital footprint. I advise learners on effective measures to confine
+or counter the impact of inappropriate behaviour (of their own or their peers).
+I implement learning activities in which learners use immersive technologies creatively, expanding their technical repertoire. I encourage learners to help each other in developing their competence. 
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Facilitating Learners’ Digital Competence" relation="equal" value="6-10"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I encourage learners to use digital technologies for information retrieval, e.g. on assignments.
+I encourage learners to use digital and immersive technologies to interact with other learners, with their educators, management staff and third parties.
+I encourage learners to express themselves using immersive technologies, e.g. by producing texts, images, videos, models, environments.
+I foster learners’ awareness of how immersive technologies can positively and negatively affect health and wellbeing, e.g. by encouraging them to
+identify behaviour (of their own or of others) that makes them happy or sad. I foster learners’ awareness of the benefits and drawbacks of the openness of the technologies.
+I encourage learners to solve technical problems using trial and error. I encourage learners to transfer their digital competence to new situations.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Facilitating Learners’ Digital Competence" relation="equal" value="0-5"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I do not or only very rarely consider how I could foster learners’ information and media literacy.
+I do not or only very rarely consider how I could foster learners’ digital and immersive communication and collaboration.
+I do not or only very rarely consider how to foster immersive content creation by learners.
+I am aware that immersive technologies can positively and negatively affect learners’ wellbeing.
+I do not or only very rarely consider how to foster learners’ problem solving using digital and immersive technologies. 
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" filter="Information and media literacy,Immersive communication and collaboration,Immersive content creation,Immersive problem solving,Responsible use" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Mastering immersive technologies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Technologies" relation="equal" value="21-24"]
+<div class="sur_static"><img src="/surimg/pioneer.png" class="sur_img_res"><span>Pioneer</span></div>
+I provide full courses or learning modules using virtual reality environments. I create virtual reality learning recourses. I experiment with and develop new formats and pedagogical methods for providing virtual reality experiences. My virtual reality solutions conform to learning object standards and can be easily incorporated into learning management systems.
+I provide full courses or learning modules using augmented reality environments. I create augmented reality learning recourses. I experiment with and develop new formats and pedagogical methods for providing augmented reality experiences. My augmented reality solutions conform to learning object standards and can be easily incorporated into learning management systems.
+I provide full courses or learning modules that make use of wearables and haptics. I reuse existing or create new wearables to be used together with learning recourses. I experiment with and develop new formats and pedagogical methods for providing haptics experiences. 
+I can adapt existing immersive resources into learning management system so that these resources, e.g. apps, games, virutual environments, conform to learning object standards, could be run from learning management system, the learning activities in the immersive environments could be tracked and gamification methods could be applied.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Technologies" relation="equal" value="17-20"]
+<div class="sur_static"><img src="/surimg/leader.png" class="sur_img_res"><span>Leader</span></div>
+I incorporate assignments and learning activities which require learners to effectively and responsibly use virtual reality technologies for communication, collaboration, knowledge co-creation, and civic participation. I enable learners to seek out different virtual reality solutions to a problem, investigate their benefits and drawbacks and critically and creatively come up with a new solution or product.
+I incorporate assignments and learning activities which require learners to effectively and responsibly use augmented reality technologies for communication, collaboration, knowledge co-creation, and civic participation. I enable learners to seek out different virtual reality solutions to a problem, investigate their benefits and drawbacks and critically and creatively come up with a new solution or product.
+I incorporate assignments and learning activities which require learners to effectively and responsibly use wearables and haptics technology together with virtual and augmented reality technologies for communication, collaboration, knowledge co-creation, and civic participation. I enable learners to seek out different solutions to a problem, investigate their benefits and drawbacks and critically and creatively come up with a new solution or product.
+I integrate immersive resources into learning management system so that these resources, e.g. apps, games, virutual environments, could be run from learning management system, the learning activities in the immersive environments could be tracked and gamification methods could be applied.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Technologies" relation="equal" value="13-16"]
+<div class="sur_static"><img src="/surimg/expert.png" class="sur_img_res"><span>Expert</span></div>
+I use a range of different pedagogic strategies to enable learners to express themselves using virtual reality technologies. I use a range of different pedagogic strategies in which learners use virtual reality technologies for communication and collaboration. I can identify the virtual reality devices and resources that negatively affects learners’ health and wellbeing.
+I use a range of different pedagogic strategies to enable learners to express themselves using augmented reality technologies. I use a range of different pedagogic strategies in which learners use virtual reality technologies for communication and collaboration. I can identify the augmented reality devices and resources that negatively affects learners’ health and wellbeing.
+I use a range of different pedagogic strategies to enable learners to use wearables and haptics technology along with augmented reality technologies.
+I integrate immersive resources into learning management system so that these resources, e.g. apps, games, virutual environments, could be run from learning management system and the learning activities in the immersive environments could be tracked.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Technologies" relation="equal" value="9-12"]
+<div class="sur_static"><img src="/surimg/integrator.png" class="sur_img_res"><span>Integrator</span></div>
+I implement learning activities in which learners use virtual reality technologies to produce immersive content, e.g. in the form of virtual reality environments, models, etc. I encourage learners to publish and share their productions.
+I implement learning activities in which learners use augmented reality technologies to produce immersive content, e.g. in the form of augmented reality environments, models, etc. I encourage learners to publish and share their productions.
+I implement learning activities in which learners use wearable technologies to reinforce immersive content. I encourage learners to publish and share their productions that involve waerable and haptics technologies.
+I integrate immersive resources into learning management system so that these resources, e.g. apps, games, virutual environments, could be run from learning management system.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Technologies" relation="equal" value="5-8"]
+<div class="sur_static"><img src="/surimg/explorer.png" class="sur_img_res"><span>Explorer</span></div>
+I encourage learners to use virtual reality technologies for learning, comunication, collaboration, creation and evaluation.
+I encourage learners to use augmented reality technologies for learning, comunication, collaboration, creation and evaluation.
+I encourage learners to use wearable technologies and haptics for learning, comunication, collaboration, creation and evaluation.
+I'm trying to integrate immersive resources into learning management system.
+[/survey_conditions]
+[survey_conditions id="751495167" uid="true" session="last" condition="categoryscore_Technologies" relation="equal" value="0-4"]
+<div class="sur_static"><img src="/surimg/newcommer.png" class="sur_img_res"><span>Newcommer</span></div>
+I do not or only very rarely consider how I could use virtual reality devices and resources for educational activities.
+I do not or only very rarely consider how I could use augmented reality devices and resources for educational activities.
+I do not or only very rarely consider how I could use wearable devices and haptics technology for educational activities.
+I do not or only very rarely consider how I could integrate immersive technologies and its resources into the learning management system.
+[/survey_conditions]
+<!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[survey_answers id="751495167" style="barchart" data="average-score" init="true" filter="Virtual Reality,Augmented Reality,Wearables,Integration" uid="true" session="last" max="6"]
+<!-- /wp:shortcode -->
